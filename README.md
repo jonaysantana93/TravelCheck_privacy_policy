@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-TravelCheck se compromete a proteger su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información obtenida de los usuarios cuando utiliza nuestra aplicación.
+Las aplicaciones desarrolladas bajo el paquete com.jonay se comprometen a proteger su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información obtenida de los usuarios cuando utilizan cualquiera de nuestras aplicaciones.
 
 ## Información que Recopilamos
 
